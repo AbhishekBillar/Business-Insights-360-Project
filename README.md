@@ -75,7 +75,15 @@ The **Home Page** contains navigation buttons to the following views:
 
 ## 🎥 Report Overview
 
-https://github.com/user-attachments/assets/a376ff8f-49f7-4d5c-9f88-97d7ffdfbbf5
+<video src="https://github.com/user-attachments/assets/a376ff8f-49f7-4d5c-9f88-97d7ffdfbbf5/12345678-business-insights-360-clip.mp4" 
+       controls 
+       autoplay 
+       muted 
+       loop 
+       width="700">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ---

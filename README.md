@@ -75,9 +75,6 @@ The **Home Page** contains navigation buttons to the following views:
 
 ## 🎥 Report Overview
 
-> ✅ Watch the project walkthrough video:  
-> [![Watch the video]
-
 https://github.com/user-attachments/assets/a376ff8f-49f7-4d5c-9f88-97d7ffdfbbf5
 
 

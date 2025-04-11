@@ -76,7 +76,8 @@ The **Home Page** contains navigation buttons to the following views:
 ## 🎥 Report Overview
 
 > ✅ Watch the project walkthrough video:  
-> [![Watch the video]<iframe width="560" height="315" src="https://www.youtube.com/embed/C19RIFBlSQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> [![Watch the video](https://img.youtube.com/vi/C19RIFBlSQM/0.jpg)](https://www.youtube.com/watch?v=C19RIFBlSQM)
+
 
 ---
 

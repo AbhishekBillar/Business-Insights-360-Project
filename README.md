@@ -75,14 +75,7 @@ The **Home Page** contains navigation buttons to the following views:
 
 ## 🎥 Report Overview
 
-<video src="https://github.com/user-attachments/assets/a376ff8f-49f7-4d5c-9f88-97d7ffdfbbf5/12345678-business-insights-360-clip.mp4" 
-       controls 
-       autoplay 
-       muted 
-       loop 
-       width="700">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KRgZo3U5onQ?si=zAxqEGC0pOunyQT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
